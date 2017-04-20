@@ -7,6 +7,6 @@ this should work
 ok then do for script
 this is the change.
 hello this is not a full change done
-sdksdjaskl
-kdksdal
+this is first line
+this is secound line
 
